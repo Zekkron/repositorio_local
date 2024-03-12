@@ -1,1 +1,2 @@
 primeiro texto escrito no repertorio local
+segundo texto escrito no repertorio local
